@@ -1,0 +1,10 @@
+<com.example.shuoming.SingleScrollGallery xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gallery"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     android:unselectedAlpha="1"
+    android:gravity="fill" 
+    android:background="#ffffff"
+    android:spacing="8dp"
+   />
+ <!--android:spacing="dp"-->
